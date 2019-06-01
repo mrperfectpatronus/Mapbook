@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Books">
+
+        <item>1\t\t\tHarryPotter:DH\t\t\t700rs</item>
+        <item>2\t\t\tDa Vinci Code\t\t\t500rs</item>
+        <item>3\t\t\tPercy Jackson:TLT\t\t\t400rs</item>
+        <item>4\t\t\tSherlock Holmes\t\t\t600rs</item>
+        <item>5\t\t\tLord Of Rings 1\t\t\t650rs</item>
+        <item>6\t\t\tSherlock Holmes 2\t\t\t550rs</item>
+        <item>7\t\t\tAfter Earth\t\t\t330rs</item>
+        <item>8\t\t\tHarry Potter:SS\t\t\t350rs</item>
+        <item>9\t\t\tEragon\t\t\t620rs</item>
+
+    </string-array>
+
+
+</resources>
